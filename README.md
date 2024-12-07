@@ -20,11 +20,11 @@ This project is a Gemini AI Chatbot, built using HTML, CSS, and JavaScript. It i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gemini-ai-chatbot.git
+   git clone https://github.com/prazzdev/ai-chatbot-sederhana.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd gemini-ai-chatbot
+   cd ai-chatbot-sederhana
    ```
 3. Open the index.html file in your browser to see the chatbot in action.
 
